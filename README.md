@@ -1,6 +1,8 @@
 # Territorial-partitioning-genetic-algorithm
 A custom Python-based genetic algorithm designed to solve NP-hard territorial partitioning problems by optimizing demographic balance and geometric compactness under strict spatial connectivity constraints.
 
+![Animation](assets/3_Evolution_Carte.gif)
+
 # Key Features
 
 **Graph-Based Modeling:** Represents territories as dual graphs using NetworkX.
@@ -19,5 +21,13 @@ A custom Python-based genetic algorithm designed to solve NP-hard territorial pa
 #  Visual Results
 
 **Final Partitioning Map:**
+
+![Animation](assets/1_Carte_Finale_HD.png)
+
 **Example of the algorithm generating 13 connected and balanced districts:**
 
+![Animation](assets/3_Evolution_Carte.gif)
+
+**Example of the evolution of populations per district:**
+
+![Animation](assets/4_Evolution_Populations.gif)
